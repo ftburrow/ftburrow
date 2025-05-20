@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Teagan.
+She/ Her
+Currently learning how to use GitHub!
+
 <!--
 **ftburrow/ftburrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
