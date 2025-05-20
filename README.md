@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-My name is Teagan.
-
-She/ Her
-
+My name is Teagan.  
+She/ Her  
 Currently learning how to use GitHub!
 
 <!--
